@@ -1,4 +1,4 @@
-﻿# Bad UI Login: Shoot to Type
+﻿# Login Form
 
 Proyek login absurd: untuk mengisi `username` dan `password`, user harus menembak karakter yang beterbangan di layar.
 
